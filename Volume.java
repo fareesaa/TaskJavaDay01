@@ -46,7 +46,7 @@ class VolumeB {
         System.out.println("Jari-jari = " + Jari);
         System.out.println("Volume bola adalah = " + TotalAkhir);
 
-        in.close();
+        input.close();
         
     }
 
